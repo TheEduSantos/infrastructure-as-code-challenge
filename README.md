@@ -33,6 +33,7 @@
 ### Remember that the current directory needs to be in the same location as the .sh file in order to run it this way. If you want to be able to run the script from any directory, consider moving it to a directory in your PATH and ensuring it has execution permissions there. This will allow you to execute it just by typing the filename from anywhere in the terminal.
 
 
+=========================================================================================================================
 
 
 # Documentação do Código
