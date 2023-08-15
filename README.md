@@ -1,7 +1,7 @@
 # Code Documentation
 ## Script for Creating Directories, User Groups, and Users
 
-Description: This bash script automates the creation of directories, user groups, and users on a Linux system. It creates specific directories, defines user groups, associates users with these groups, allowing group selection during user creation. Additionally, the script sets permissions for created directories.
+### Description: This bash script automates the creation of directories, user groups, and users on a Linux system. It creates specific directories, defines user groups, associates users with these groups, allowing group selection during user creation. Additionally, the script sets permissions for created directories.
 
 
 ### Making a .sh File Executable:
@@ -30,7 +30,7 @@ Description: This bash script automates the creation of directories, user groups
 
 3. The script will run, and you'll see the corresponding output in the terminal.
 
-Remember that the current directory needs to be in the same location as the .sh file in order to run it this way. If you want to be able to run the script from any directory, consider moving it to a directory in your PATH and ensuring it has execution permissions there. This will allow you to execute it just by typing the filename from anywhere in the terminal.
+### Remember that the current directory needs to be in the same location as the .sh file in order to run it this way. If you want to be able to run the script from any directory, consider moving it to a directory in your PATH and ensuring it has execution permissions there. This will allow you to execute it just by typing the filename from anywhere in the terminal.
 
 
 
