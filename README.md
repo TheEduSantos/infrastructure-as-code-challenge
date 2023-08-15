@@ -1,5 +1,5 @@
 # Code Documentation
-Title: Script for Creating Directories, User Groups, and Users
+### Script for Creating Directories, User Groups, and Users
 
 Description: This bash script automates the creation of directories, user groups, and users on a Linux system. It creates specific directories, defines user groups, associates users with these groups, allowing group selection during user creation. Additionally, the script sets permissions for created directories.
 
@@ -36,7 +36,7 @@ Remember that the current directory needs to be in the same location as the .sh 
 
 
 # Documentação do Código
-Título: Script para Criação de Diretórios, Grupos de Usuários e Usuários
+### Script para Criação de Diretórios, Grupos de Usuários e Usuários
 
 ### Descrição: Este script em bash automatiza a criação de diretórios, grupos de usuários e usuários em um sistema Linux. Ele cria diretórios específicos, define grupos de usuários e associa usuários a esses grupos, permitindo a escolha do grupo durante a criação de cada usuário. Além disso, o script atribui permissões a diretórios criados.
 
