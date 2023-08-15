@@ -29,7 +29,7 @@ The /public directory is set with permissions 777, allowing all users to have fu
 Execute the script in a terminal.
 Follow the instructions to input information such as usernames, comments, and passwords.
 
-# ============================================================================================
+# ==========================================================================================
 
 # Documentação do Código
 
