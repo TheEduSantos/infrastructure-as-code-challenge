@@ -24,7 +24,7 @@
 3. Provide information such as username, comment, and password for each user.
 4. Choose the group (ADM, VEN, or SEC) to which the user will be associated.
 
-============================================================================================
+# ==========================================================================================
 
 # Documentação do Código
 
