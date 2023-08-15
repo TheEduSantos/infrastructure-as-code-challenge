@@ -1,10 +1,10 @@
-### Code Documentation
+# Code Documentation
 
-**Title:** Script for Creating Directories, User Groups, and Users
+## Script for Creating Directories, User Groups, and Users
 
 **Description:** This bash script automates the creation of directories, user groups, and users on a Linux system. It creates specific directories, defines user groups, associates users with these groups, allowing group selection during user creation. Additionally, the script sets permissions for created directories.
 
-**Functionality:**
+### Functionality:
 
 1. **Directory Creation:**
    The script starts by creating four directories: `/public`, `/adm`, `/ven`, and `/sec` using the `mkdir` command.
@@ -18,17 +18,17 @@
 4. **Directory Permission Setting:**
    The script adjusts the permissions of the created directories. The `/adm`, `/ven`, and `/sec` directories are assigned to the `root` user and the `GRP_ADM`, `GRP_VEN`, and `GRP_SEC` groups, respectively, using the `chown` command. Directory permissions are set to 770, except for the `/public` directory, which receives permissions 777.
 
-**Usage:**
+### Usage:
 1. Execute the script in a terminal.
 2. Input the number of users to create.
 3. Provide information such as username, comment, and password for each user.
 4. Choose the group (ADM, VEN, or SEC) to which the user will be associated.
 
-------
+============================================================================================
 
-### Documentação do Código
+# Documentação do Código
 
-**Título:** Script para Criação de Diretórios, Grupos de Usuários e Usuários
+## Script para Criação de Diretórios, Grupos de Usuários e Usuários
 
 **Descrição:** Este script em bash automatiza a criação de diretórios, grupos de usuários e usuários em um sistema Linux. Ele cria diretórios específicos, define grupos de usuários e associa usuários a esses grupos, permitindo a escolha do grupo durante a criação de cada usuário. Além disso, o script atribui permissões a diretórios criados.
 
@@ -46,7 +46,7 @@
 4. **Definição de Permissões dos Diretórios:**
    O script ajusta as permissões dos diretórios criados. Os diretórios `/adm`, `/ven` e `/sec` são atribuídos ao usuário `root` e aos grupos `GRP_ADM`, `GRP_VEN` e `GRP_SEC`, respectivamente, usando o comando `chown`. As permissões dos diretórios são configuradas para 770, exceto o diretório `/publico` que recebe permissões 777.
 
-**Uso:**
+### Uso:
 1. Execute o script em um terminal.
 2. Insira o número de usuários a serem criados.
 3. Forneça informações como nome de usuário, comentário e senha para cada usuário.
